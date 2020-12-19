@@ -1,1 +1,1 @@
-# infFibbonacciseq
+Litterally just going through a list of "programs you might be asked to make in a interview"; this is one of them that I thought would be a little more difficult but was absurdly easy in the terms of Python. 
